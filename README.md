@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @sanjivsingh
 - 
 # 💫 About Me:
-Sanjiv singh<br>
+Hii i am sanjiv a mern stack developer,
+currently trying to develop ai which help us in daily bases work
+
+<br>
 
 
 # 💻 Tech Stack:
